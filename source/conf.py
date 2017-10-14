@@ -321,6 +321,3 @@ numfig_format = {
 
 
 # -- Options for epub output -------------------------------------------
-
-# A dictionary of options that influence the look and feel of the selected theme. These are theme-specific.
-epub_theme = "phpunit_epub"
