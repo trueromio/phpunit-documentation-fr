@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<chapter id="writing-tests-for-phpunit">
+    <title>Writing Tests for PHPUnit</title>
+    <table id="writing-tests-for-phpunit.output.tables.api">
+        <title>Methods for testing output</title>
+
+        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+            <thead>
+                <row>
+                    <entry>Method</entry>
+                    <entry>Meaning</entry>
+                </row>
+            </thead>
+            <tbody>
+                <row>
+                    <entry>
+                        <literal>void expectOutputRegex(string $regularExpression)</literal>
+                    </entry>
+                    <entry>Set up the expectation that the output matches a <literal>$regularExpression</literal>.
+                    </entry>
+                </row>
+                <row>
+                    <entry>
+                        <literal>void expectOutputString(string $expectedString)</literal>
+                    </entry>
+                    <entry>Set up the expectation that the output is equal to an <literal>$expectedString</literal>.
+                    </entry>
+                </row>
+                <row>
+                    <entry>
+                        <literal>bool setOutputCallback(callable $callback)</literal>
+                    </entry>
+                    <entry>Sets up a callback that is used to, for instance, normalize the actual output.</entry>
+                </row>
+                <row>
+                    <entry>
+                        <literal>string getActualOutput()</literal>
+                    </entry>
+                    <entry>Get the actual output.</entry>
+                </row>
+            </tbody>
+        </tgroup>
+    </table>
+</chapter>

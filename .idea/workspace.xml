@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5fd81834-22fb-4ef0-8a03-16d939ecb1bf" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/rorishko.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/phpunit-documentation-new.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conversion/DocBookToReST" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conversion/DocBookToReST.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conversion/tests/.cache/v/cache/lastfailed" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conversion/tests/conversion.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conversion/tests/fixtures/code-example.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conversion/tests/fixtures/expected-code-example.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conversion/tests/fixtures/expected-table.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conversion/tests/fixtures/table.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docbook/annotations.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docbook/assertions.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docbook/bibliography.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docbook/book.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docbook/code-coverage-analysis.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docbook/configuration.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docbook/copyright.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docbook/database.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docbook/extending-phpunit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docbook/fixtures.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docbook/incomplete-and-skipped-tests.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docbook/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docbook/installation.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docbook/logging.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docbook/organizing-tests.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docbook/other-uses-for-tests.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docbook/risky-tests.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docbook/selenium.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docbook/skeleton-generator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docbook/test-doubles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docbook/testing-practices.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docbook/textui.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docbook/writing-tests-for-phpunit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manual-steps.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_templates/phpunit_epub/theme.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/annotations.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/assertions.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/bibliography.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/book.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/code-coverage-analysis.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/conf.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/configuration.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/copyright.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/database.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/documentation_index.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/extending-phpunit.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/fixtures.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/incomplete-and-skipped-tests.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/index.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/installation.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/logging.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/organizing-tests.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/other-uses-for-tests.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/risky-tests.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/selenium.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/skeleton-generator.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/test-doubles.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/testing-practices.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/textui.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/writing-tests-for-phpunit.rst" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="writing-tests-for-phpunit.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docbook/writing-tests-for-phpunit.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="44" column="4" lean-forward="false" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="writing-tests-for-phpunit.rst" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/writing-tests-for-phpunit.rst">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Makefile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Makefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1802">
+              <caret line="106" column="38" lean-forward="false" selection-start-line="106" selection-start-column="38" selection-end-line="106" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conf.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/conf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4735">
+              <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+              <folding>
+                <element signature="e#419#428#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="612">
+                <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="theme.conf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_templates/phpunit_epub/theme.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="writing-tests-for-phpunit.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/epub/writing-tests-for-phpunit.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="writing-tests-for-phpunit.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/html/writing-tests-for-phpunit.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1581">
+              <caret line="93" column="105" lean-forward="false" selection-start-line="93" selection-start-column="105" selection-end-line="93" selection-end-column="105" />
+              <folding>
+                <marker date="1507988064434" expanded="true" signature="234418:234576" ph="..." />
+                <marker date="1507988064434" expanded="true" signature="234418:235028" ph="..." />
+                <marker date="1507988064434" expanded="true" signature="235022:235028" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="assertions.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/epub/assertions.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1507979963869" expanded="true" signature="169495:169502" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>col-lg-9</find>
+      <find>prom</find>
+      <find>filena</find>
+      <find>listitem</find>
+      <find>exam</find>
+      <find>xref</find>
+      <find>blockq</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="401b36c502b44ff7070e570419be0cbe47f9b711" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/docbook/installation.xml" />
+        <option value="$PROJECT_DIR$/conversion/DocBookToReST.py" />
+        <option value="$PROJECT_DIR$/src/source/configuration.rst" />
+        <option value="$PROJECT_DIR$/src/source/installation.rst" />
+        <option value="$PROJECT_DIR$/src/source/writing-tests-for-phpunit.rst" />
+        <option value="$PROJECT_DIR$/source/writing-tests-for-phpunit.rst" />
+        <option value="$PROJECT_DIR$/conversion/tests/fixtures/expected-code-example.rst" />
+        <option value="$PROJECT_DIR$/conversion/tests/conversion.py" />
+        <option value="$PROJECT_DIR$/manual-steps.md" />
+        <option value="$PROJECT_DIR$/build/latex/PHPUnit.log" />
+        <option value="$PROJECT_DIR$/source/_templates/phpunit_epub/layout.html" />
+        <option value="$PROJECT_DIR$/Makefile" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/source/conf.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="86" />
+    <option name="y" value="26" />
+    <option name="width" value="1815" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="phpunit-documentation-fr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phpunit-documentation-fr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phpunit-documentation-fr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phpunit-documentation-fr" type="462c0819:PsiDirectoryNode" />
+              <item name="conversion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phpunit-documentation-fr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phpunit-documentation-fr" type="462c0819:PsiDirectoryNode" />
+              <item name="docbook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phpunit-documentation-fr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phpunit-documentation-fr" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rorishko\Documents\phpunit-documentation-new\source\_templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fd81834-22fb-4ef0-8a03-16d939ecb1bf" name="Default" comment="" />
+      <created>1507896886389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507896886389</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Reverted back fix newline on 'prompt' as it fixed by previous commit">
+      <created>1507898967501</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1507898967501</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added escaping to 'filename' tag so that backslashes in path are displayed properly">
+      <created>1507900656939</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1507900656939</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fixed and refactores tests">
+      <created>1507969273084</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1507969273084</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added manual steps list">
+      <created>1507969762441</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1507969762441</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added Read the Docs html theme&#10;Removed phpunit_multi theme">
+      <created>1507984885299</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1507984885299</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19189766" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Reverted back fix newline on 'prompt' as it fixed by previous commit" />
+    <MESSAGE value="Added escaping to 'filename' tag so that backslashes in path are displayed properly" />
+    <MESSAGE value="Fixed and refactores tests" />
+    <MESSAGE value="Added manual steps list" />
+    <MESSAGE value="Added Read the Docs html theme&#10;Removed phpunit_multi theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Read the Docs html theme&#10;Removed phpunit_multi theme" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/source/conf.py</url>
+          <line>13</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build/latex/PHPUnit.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conversion/DocBookToReST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4556">
+          <caret line="268" column="8" lean-forward="false" selection-start-line="268" selection-start-column="4" selection-end-line="268" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docbook/writing-tests-for-phpunit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/build/html/writing-tests-for-phpunit.html" />
+    <entry file="file://$PROJECT_DIR$/src/source/writing-tests-for-phpunit.rst" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/build/html/installation.html" />
+    <entry file="file://$PROJECT_DIR$/src/source/incomplete-and-skipped-tests.rst" />
+    <entry file="file://$PROJECT_DIR$/src/source/conf.py" />
+    <entry file="file://$PROJECT_DIR$/src/source/_templates/phpunit_multi_html/static/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/src/source/_templates/phpunit_multi_html/static/js/jquery.js" />
+    <entry file="file://$PROJECT_DIR$/src/Makefile" />
+    <entry file="file://$PROJECT_DIR$/src/source/_templates/phpunit_multi_html/layout.html" />
+    <entry file="file://$PROJECT_DIR$/src/source/_templates/phpunit_multi_html/theme.conf" />
+    <entry file="file://$PROJECT_DIR$/src/source/configuration.rst" />
+    <entry file="file://$PROJECT_DIR$/src/source/installation.rst" />
+    <entry file="file://$PROJECT_DIR$/src/source/testing-practices.rst" />
+    <entry file="file://$PROJECT_DIR$/docbook/installation.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="330" column="17" lean-forward="false" selection-start-line="330" selection-start-column="9" selection-end-line="330" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/source/other-uses-for-tests.rst" />
+    <entry file="file://$PROJECT_DIR$/src/source/fixtures.rst" />
+    <entry file="file://$PROJECT_DIR$/src/source/risky-tests.rst" />
+    <entry file="file://$PROJECT_DIR$/src/build/html/writing-tests-for-phpunit.html" />
+    <entry file="file://$PROJECT_DIR$/src/source/writing-tests-for-phpunit.rst" />
+    <entry file="file://$PROJECT_DIR$/conversion/DocBookToReST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3434">
+          <caret line="202" column="4" lean-forward="false" selection-start-line="202" selection-start-column="4" selection-end-line="202" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conversion/tests/fixtures/table.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conversion/tests/fixtures/code-example.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conversion/tests/conversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="45" lean-forward="false" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conversion/tests/fixtures/expected-code-example.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manual-steps.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="51">
+            <caret line="3" column="42" lean-forward="false" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/latex/PHPUnit.aux">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/latex/PHPUnit.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/latex/PHPUnit.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/epub/assertions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1507979963869" expanded="true" signature="169495:169502" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/writing-tests-for-phpunit.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docbook/writing-tests-for-phpunit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="44" column="4" lean-forward="false" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_templates/phpunit_epub/static/js/jquery.js" />
+    <entry file="file://$PROJECT_DIR$/source/_templates/phpunit_epub/layout.html" />
+    <entry file="file://$PROJECT_DIR$/build/epub/.buildinfo">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/epub/mimetype">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/epub/toc.ncx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20369">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/epub/content.opf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/html/writing-tests-for-phpunit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="93" column="105" lean-forward="false" selection-start-line="93" selection-start-column="105" selection-end-line="93" selection-end-column="105" />
+          <folding>
+            <marker date="1507988064434" expanded="true" signature="234418:234576" ph="..." />
+            <marker date="1507988064434" expanded="true" signature="234418:235028" ph="..." />
+            <marker date="1507988064434" expanded="true" signature="235022:235028" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/epub/writing-tests-for-phpunit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_templates/phpunit_multi_html/theme.conf" />
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1802">
+          <caret line="106" column="38" lean-forward="false" selection-start-line="106" selection-start-column="38" selection-end-line="106" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_templates/phpunit_epub/theme.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="612">
+            <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docbook/index.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/conf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4735">
+          <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+          <folding>
+            <element signature="e#419#428#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
